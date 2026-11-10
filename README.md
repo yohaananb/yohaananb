@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Yohana 👋
 
-<!--
-**yohaananb/yohaananb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science & Engineering Student | Data Analytics | Business Intelligence
 
-Here are some ideas to get you started:
+I'm a Data Science and Engineering student at Universidad Carlos III de Madrid, currently studying at San Diego State University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in **using data to understand customer behavior, identify business opportunities, and support data-driven decision making**. I'm particularly interested in Data Analytics, Business Intelligence, and applying Machine Learning to real-world business problems.
+
+### 🛠️ Technologies & Tools
+
+- **Programming:** Python, SQL, R
+- **Data Analysis:** Pandas, NumPy, Excel
+- **Business Intelligence & Visualization:** Power BI, Matplotlib
+- **Machine Learning:** Scikit-learn, PyTorch
+- **Other:** Git, GitHub
+
+### 📊 Featured Projects
+
+- 🛍️ **Customer Segmentation** — RFM analysis, K-Means clustering and PCA to identify customer groups and generate business insights
+- 📊 **Business Intelligence Projects** — Interactive dashboards and data visualization using Power BI
+- 🤖 **Machine Learning Projects** — Data preprocessing, model development and evaluation
+- 🧠 **Neural Networks** — Deep learning projects using PyTorch
+- 📈 **Data Analysis Projects** — Exploratory data analysis, statistical modeling and data visualization
+
+### 🎯 Currently
+
+- 📊 Building projects focused on **Data Analytics and Business Intelligence**
+- 📈 Developing my skills in **Power BI and data visualization**
+- 🤖 Expanding my knowledge of **Machine Learning and predictive analytics**
+
+### 📫 Connect with me
+
+- [LinkedIn](YOUR_LINKEDIN_URL)
+- [GitHub](https://github.com/yohaananb)
