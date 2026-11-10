@@ -30,5 +30,5 @@ I'm interested in **using data to understand customer behavior, identify busines
 
 ### 📫 Connect with me
 
-- [LinkedIn]((https://www.linkedin.com/in/yohana-nunez33/))
+- [LinkedIn](https://www.linkedin.com/in/yohana-nunez33/)
 - [GitHub](https://github.com/yohaananb)
